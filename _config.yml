@@ -2,14 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
 name: NAPIZ.DE
-
-# Short bio or description (displayed in the header)
 description: SOSI PISOS
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/logo.png
+avatar: https://raw.githubusercontent.com/SSE4/sse4.github.io/master/images/logo.png
 
 #
 # Flags below are optional
